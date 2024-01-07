@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestePratico", "TestePratico\TestePratico.csproj", "{9C5833B8-C453-41E8-BD03-235C65D7343E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testes", "Testes", "{3A6E8AE4-8325-4F80-8E4D-AFAA5B5C5DE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecomposicaoTeste", "DecomposicaoTeste\DecomposicaoTeste.csproj", "{630307E5-FF91-4740-B128-A83596A4E4B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C5833B8-C453-41E8-BD03-235C65D7343E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5833B8-C453-41E8-BD03-235C65D7343E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5833B8-C453-41E8-BD03-235C65D7343E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5833B8-C453-41E8-BD03-235C65D7343E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630307E5-FF91-4740-B128-A83596A4E4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630307E5-FF91-4740-B128-A83596A4E4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630307E5-FF91-4740-B128-A83596A4E4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630307E5-FF91-4740-B128-A83596A4E4B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{630307E5-FF91-4740-B128-A83596A4E4B2} = {3A6E8AE4-8325-4F80-8E4D-AFAA5B5C5DE6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B8CDCEE-C19C-45DE-8009-0A95AF073A77}
+	EndGlobalSection
+EndGlobal
